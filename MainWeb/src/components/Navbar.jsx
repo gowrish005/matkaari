@@ -202,7 +202,7 @@ const Navbar = () => {
                 whileHover={{ width: '100%' }}
                 transition={{ duration: 0.3 }}
               />
-              MATKAARI
+              MATKAARI<sup className="font-normal text-xs md:text-sm">™</sup>
             </motion.div>
           </motion.button>
 

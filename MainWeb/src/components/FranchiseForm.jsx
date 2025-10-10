@@ -37,8 +37,8 @@ const FranchiseForm = ({ position = 'top' }) => {
     
     // EmailJS configuration
     const serviceId = 'service_matkaari' // Replace with your EmailJS service ID
-    const templateId = 'template_8wzotum' // Replace with your EmailJS template ID
-    const publicKey = 'g98YUt0bQFvhDr3oE' // Replace with your EmailJS public key
+    const templateId = 'template_myb6z6d' // Replace with your EmailJS template ID
+    const publicKey = 'cnAwTUv8lUQTSvknP' // Replace with your EmailJS public key
     
     // Prepare template parameters
     const templateParams = {
@@ -270,15 +270,14 @@ const FranchiseForm = ({ position = 'top' }) => {
                   Your Budget
                 </label>
                 <div className="relative">
-                  <DollarSign className="absolute left-4 top-6 w-5 h-5" style={{ color: '#B7410E' }} />
-                  <div className="pl-12 space-y-3">
+                  <div className="space-y-3">
                     {budgetOptions.map((option, index) => (
                       <motion.label
                         key={index}
                         className="flex items-center p-4 rounded-xl cursor-pointer transition-all"
                         style={{
                           backgroundColor: formData.budget === option ? '#E4A93E20' : '#FFFFFF',
-                          border: `2px solid ${formData.budget === option ? '#E4A93E' : '#E4A93E50'}`
+                          border: `2px solid {formData.budget === option ? '#E4A93E' : '#E4A93E50'}`
                         }}
                         whileHover={{ scale: 1.02 }}
                         whileTap={{ scale: 0.98 }}
