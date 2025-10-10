@@ -1,0 +1,60 @@
+name,description,price,image
+Elaichi Chai Regular,Aromatic cardamom-infused traditional chai in kulhad,25,elaichi-chai.jpg
+Elaichi Chai Large,Aromatic cardamom-infused traditional chai in large kulhad,40,elaichi-chai-large.jpg
+Ginger Chai Regular,Refreshing ginger-infused tea with a warming kick,30,ginger-chai.jpg
+Ginger Chai Large,Refreshing ginger-infused tea with a warming kick in large kulhad,45,ginger-chai-large.jpg
+Chocolate Chai Regular,Rich chocolate blended with traditional chai,35,chocolate-chai.jpg
+Chocolate Chai Large,Rich chocolate blended with traditional chai in large kulhad,49,chocolate-chai-large.jpg
+Gud/Jaggery Wali Chai Regular,Traditional jaggery-sweetened chai with authentic flavor,30,gud-chai.jpg
+Gud/Jaggery Wali Chai Large,Traditional jaggery-sweetened chai in large kulhad,45,gud-chai-large.jpg
+Masala Chai Regular,Classic Indian spiced tea with aromatic masala blend,30,masala-chai.jpg
+Masala Chai Large,Classic Indian spiced tea with aromatic masala blend in large kulhad,45,masala-chai-large.jpg
+Regular Coffee,Freshly brewed coffee served in kulhad,25,regular-coffee.jpg
+Black Coffee,Strong black coffee without milk,30,black-coffee.jpg
+Cold Coffee,Refreshing chilled coffee beverage,70,cold-coffee.jpg
+Chocolate Shake,Rich and creamy chocolate milkshake,80,chocolate-shake.jpg
+Vanilla Shake,Classic vanilla flavored milkshake,70,vanilla-shake.jpg
+Hazelnut Cold Coffee,Premium hazelnut flavored cold coffee,89,hazelnut-cold-coffee.jpg
+Kit-Kat Shake,Delicious shake blended with Kit-Kat chocolate,89,kitkat-shake.jpg
+Oreo Shake,Creamy shake with crushed Oreo cookies,89,oreo-shake.jpg
+Lime Soda,Refreshing lime soda drink,49,lime-soda.jpg
+Lime Juice,Fresh lime juice,49,lime-juice.jpg
+Sweet Lassi,Traditional sweet yogurt drink,79,sweet-lassi.jpg
+Dry Fruit Lassi,Lassi enriched with assorted dry fruits,89,dry-fruit-lassi.jpg
+Red Sauce Pasta,Perfectly cooked pasta smothered in rich tangy tomato sauce,130,red-sauce-pasta.jpg
+White Sauce Pasta,Tender pasta in creamy velvety Parmesan-infused white sauce,139,white-sauce-pasta.jpg
+Veg Masala Maggi,Spicy masala flavored instant noodles with vegetables,70,veg-masala-maggi.jpg
+Chicken Masala Maggi,Masala maggi topped with juicy chicken pieces,80,chicken-masala-maggi.jpg
+Veg Momo,Steamed vegetable dumplings with spicy chutney,75,veg-momo.jpg
+Veg Peri-Peri Momo,Spicy peri-peri flavored vegetable momos,79,veg-peri-peri-momo.jpg
+Veg & Paneer Momo,Momos filled with vegetables and cottage cheese,85,veg-paneer-momo.jpg
+Veg Spicy Cheese Momo,Vegetable momos with spicy cheese filling,89,veg-spicy-cheese-momo.jpg
+Veg Crunchy Momo,Crispy fried vegetable momos,89,veg-crunchy-momo.jpg
+Chicken Momo,Juicy chicken-filled steamed dumplings,89,chicken-momo.jpg
+Chicken Peri-Peri Momo,Spicy peri-peri chicken momos,85,chicken-peri-peri-momo.jpg
+Spicy Chicken Momo,Extra spicy chicken dumplings,89,spicy-chicken-momo.jpg
+Chicken Crunchy Momo,Crispy fried chicken momos,99,chicken-crunchy-momo.jpg
+Veg Bao,Soft steamed buns with vegetable filling,79,veg-bao.jpg
+Veg Spicy Bao,Spicy vegetable filled steamed buns,69,veg-spicy-bao.jpg
+Chicken Bao,Steamed buns with tender chicken filling,79,chicken-bao.jpg
+Chicken Keema Bao,Bao buns filled with spiced minced chicken,79,chicken-keema-bao.jpg
+Chicke BBQ Bao,BBQ chicken filled soft steamed buns,99,chicken-bbq-bao.jpg
+Veg Sandwich,Healthy satisfying flavorful versatile nutritious sandwich,75,veg-sandwich.jpg
+Chicken Sandwich,Savory filling protein-packed classic delicious sandwich,89,chicken-sandwich.jpg
+Paneer Sandwich,Creamy vegetarian flavorful satisfying Indian-inspired sandwich,89,paneer-sandwich.jpg
+Cheese Corn Sandwich,Cheesy corny savory satisfying comfort food sandwich,89,cheese-corn-sandwich.jpg
+Overloaded Cheese Sandwich,Indulgent cheesy flavorful decadent filling sandwich,129,overloaded-cheese-sandwich.jpg
+Veg Pizza,Fresh vegetables with cheese on kulhad pizza,89,veg-pizza.jpg
+Chicken Pizza,Juicy chicken chunks with cheese on kulhad pizza,99,chicken-pizza.jpg
+Paneer Tikka Pizza,Spicy paneer tikka topping on kulhad pizza,99,paneer-tikka-pizza.jpg
+Chicken Sausage Pizza,Grilled chicken sausage kulhad pizza,119,chicken-sausage-pizza.jpg
+Chicken Seekh Kebab Pizza,Seekh kebab topped kulhad pizza,129,chicken-seekh-kebab-pizza.jpg
+Farmhouse Pizza,Loaded farmhouse vegetables kulhad pizza,129,farmhouse-pizza.jpg
+Salty Fries,Golden crispy salted potato fries,79,salty-fries.jpg
+Peri-Peri Fries,Spicy peri-peri seasoned crispy fries,89,peri-peri-fries.jpg
+Vada Pav,Classic Mumbai street food potato fritter in bun,69,vada-pav.jpg
+Veg Nuggets 7 Pcs,Crispy fried vegetable nuggets,79,veg-nuggets.jpg
+Chicken Nuggets 7 Pcs,Tender chicken nuggets fried to perfection,89,chicken-nuggets.jpg
+Samosa 2 Pcs,Crispy fried pastry with spiced potato filling,69,samosa.jpg
+Grilled Chicken Sausage 2 Pcs,Juicy grilled chicken sausages,89,grilled-chicken-sausage.jpg
+Chicken Strips,Crispy fried chicken strips,99,chicken-strips.jpg
